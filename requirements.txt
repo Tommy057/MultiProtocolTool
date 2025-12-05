@@ -1,0 +1,6 @@
+PyQt6
+pymodbus
+requests
+paho-mqtt
+pysnmp
+pyasn1
